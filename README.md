@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Azza Ali </h1>
 <h3 align="center">Machine Learning Engineer / Data Scientist</h3>
 
-- 🌱I Graduated from **Ai and machine learning** at 9-month professional diploma in Institute of Information Technology (ITI)
+- 🌱I graduated from **AI and machine learning** with a 9-month professional diploma from the Institute of Information Technology (ITI)
 - 📫 How to reach me **azzaaliomar74@gmail.com** 
 - **https://www.linkedin.com/in/azzaelnaggar/**
 
