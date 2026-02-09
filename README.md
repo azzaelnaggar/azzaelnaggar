@@ -3,9 +3,14 @@
 <h1 align="center">Hi 👋, I'm Azza Ali </h1>
 <h3 align="center"> AI Engineer </h3>
 
-- 🌱Results-oriented AI Engineer specializing in RAG systems, custom LLM fine-tuning, and production-level Computer Vision. ITI-trained and currently pursuing a Master’s degree in Computer & Control Systems Engineering. AWS Certified with hands-on experience across the full ML lifecycle, from research to deployment.
-- 📫 How to reach me **azzaaliomar74@gmail.com** 
-- **https://www.linkedin.com/in/azzaelnaggar/**
+Results-oriented AI Engineer specializing in RAG systems, custom LLM fine-tuning, and production-level Computer Vision.  
+ITI-trained and currently pursuing a Master’s degree in Computer & Control Systems Engineering.  
+AWS Certified with hands-on experience across the full ML lifecycle — from research to deployment.  
+
+📫 How to reach me:  
+📧 azzaaliomar74@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/azzaelnaggar/  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
