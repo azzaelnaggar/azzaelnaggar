@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Azza Ali </h1>
-<h3 align="center">Machine Learning Engineer / Data Scientist</h3>
+<h3 align="center"> AI Engineer </h3>
 
-- 🌱I graduated from **AI and machine learning** with a 9-month professional diploma from the Institute of Information Technology (ITI)
+- 🌱Results-oriented AI Engineer specializing in RAG systems, custom LLM fine-tuning, and production-level Computer Vision. ITI-trained and currently pursuing a Master’s degree in Computer & Control Systems Engineering. AWS Certified with hands-on experience across the full ML lifecycle, from research to deployment.
 - 📫 How to reach me **azzaaliomar74@gmail.com** 
 - **https://www.linkedin.com/in/azzaelnaggar/**
 
