@@ -9,8 +9,6 @@ AWS Certified with hands-on experience across the full ML lifecycle — from res
 
 📫 How to reach me:  
 📧 azzaaliomar74@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/azzaelnaggar/  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
